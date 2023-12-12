@@ -1,0 +1,18 @@
+body{
+    background-color: #dff0d8;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    color: white;
+  }
+  .box-blue{
+    background-color:#a78bfa;
+  }
+  .box-green{
+    background-color:#7b4ae1;
+  }
+  .box-container{
+    width: 100vw;
+    height: 100vh;
+  }
